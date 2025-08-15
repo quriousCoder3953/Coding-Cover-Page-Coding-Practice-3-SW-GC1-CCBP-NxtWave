@@ -1,6 +1,6 @@
 # Coding-Cover-Page-Coding-Practice-3-SW-GC1-CCBP-NxtWave
 
-n this assignment, let's build a Coding Cover Page by applying the Bootstrap concepts we learned till now.
+In this assignment, let's build a Coding Cover Page by applying the Bootstrap concepts we learned till now.
 
 Desired Output: -
 
